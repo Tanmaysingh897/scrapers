@@ -1,0 +1,809 @@
+,airline,time,price,base_price,stops,source,destination,dept_time,arrv_time,date,class
+0,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,08:05,10:15,02/09/2020,Economy
+1,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,02/09/2020,Economy
+2,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,02/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,02/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,02/09/2020,Economy
+5,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,18:45,20:55,02/09/2020,Economy
+6,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,02/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:30,12:45,02/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,02/09/2020,Economy
+9,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,02/09/2020,Economy
+10,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,02/09/2020,Economy
+11,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,02/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,02/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,02/09/2020,Economy
+14,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:50,02/09/2020,Economy
+15,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Hyderabad,Mumbai,New Delhi,16:10,01:00+1 DAYArrival : New Delhi03 Sep 2020,02/09/2020,Economy
+16,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,02/09/2020,Economy
+17,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,02/09/2020,Economy
+18,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,02/09/2020,Economy
+19,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,02/09/2020,Economy
+20,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,02/09/2020,Economy
+21,Air India,08 hrs 25 mins ,"₹ 6,631","₹ 5,660",1 stop via Hyderabad,Mumbai,New Delhi,14:10,22:35,02/09/2020,Economy
+22,IndiGo,05 hrs 10 mins ,"₹ 6,841","₹ 6,050",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,02/09/2020,Economy
+23,Vistara,10 hrs 25 mins ,"₹ 6,841","₹ 5,940",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,02/09/2020,Economy
+24,IndiGo,10 hrs 35 mins ,"₹ 6,841","₹ 6,050",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,02/09/2020,Economy
+25,IndiGo,05 hrs 25 mins ,"₹ 7,523","₹ 6,700",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,02/09/2020,Economy
+26,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,02/09/2020,Economy
+27,IndiGo,07 hrs 55 mins ,"₹ 8,050","₹ 7,201",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,02/09/2020,Economy
+28,IndiGo,04 hrs 45 mins ,"₹ 8,207","₹ 7,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,02/09/2020,Economy
+29,IndiGo,07 hrs 55 mins ,"₹ 8,413","₹ 7,548",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,02/09/2020,Economy
+30,Air India,10 hrs 45 mins ,"₹ 8,424","₹ 7,160","2 stop via Bengaluru,Lucknow",Mumbai,New Delhi,10:30,21:15,02/09/2020,Economy
+31,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,02/09/2020,Economy
+32,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,02/09/2020,Economy
+33,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,02/09/2020,Economy
+34,Vistara,05 hrs 50 mins ,"₹ 8,739","₹ 7,540",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,02/09/2020,Economy
+35,IndiGo,05 hrs 25 mins ,"₹ 10,831","₹ 9,850",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,02/09/2020,Economy
+36,IndiGo,08 hrs 45 mins ,"₹ 10,831","₹ 9,850",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,02/09/2020,Economy
+37,IndiGo,06 hrs 55 mins ,"₹ 11,399","₹ 10,440",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,02/09/2020,Economy
+38,Spicejet,14 hrs 45 mins ,"₹ 12,442","₹ 11,405",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,02/09/2020,Economy
+39,Spicejet,26 hrs 05 mins ,"₹ 12,722","₹ 11,671",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,13:00+1 DAYArrival : New Delhi03 Sep 2020,02/09/2020,Economy
+40,Spicejet,24 hrs 45 mins ,"₹ 14,403","₹ 13,272",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi03 Sep 2020,02/09/2020,Economy
+0,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,08:05,10:15,03/09/2020,Economy
+1,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,03/09/2020,Economy
+2,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,03/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,03/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,03/09/2020,Economy
+5,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,18:45,20:55,03/09/2020,Economy
+6,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,03/09/2020,Economy
+7,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,03/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:30,12:45,03/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,03/09/2020,Economy
+10,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,03/09/2020,Economy
+11,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,03/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,03/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,03/09/2020,Economy
+14,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,03/09/2020,Economy
+15,IndiGo,04 hrs 30 mins ,"₹ 6,473","₹ 5,700",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,03/09/2020,Economy
+16,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,03/09/2020,Economy
+17,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,03/09/2020,Economy
+18,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,03/09/2020,Economy
+19,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,03/09/2020,Economy
+20,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,03/09/2020,Economy
+21,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,03/09/2020,Economy
+22,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,03/09/2020,Economy
+23,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,03/09/2020,Economy
+24,Air India,12 hrs 35 mins ,"₹ 6,631","₹ 5,660",1 stop via Hyderabad,Mumbai,New Delhi,10:00,22:35,03/09/2020,Economy
+25,IndiGo,07 hrs 55 mins ,"₹ 6,947","₹ 6,150",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,03/09/2020,Economy
+26,IndiGo,10 hrs 25 mins ,"₹ 6,947","₹ 6,150",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,03/09/2020,Economy
+27,IndiGo,04 hrs 45 mins ,"₹ 7,419","₹ 6,600",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,03/09/2020,Economy
+28,IndiGo,07 hrs 55 mins ,"₹ 7,419","₹ 6,600",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,03/09/2020,Economy
+29,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,03/09/2020,Economy
+30,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660","2 stop via Tirupati,Visakhapatnam",Mumbai,New Delhi,09:30,23:00,03/09/2020,Economy
+31,Air India,05 hrs ,"₹ 8,206","₹ 7,160",1 stop via Tirupati,Mumbai,New Delhi,09:30,14:30,03/09/2020,Economy
+32,IndiGo,06 hrs 55 mins ,"₹ 8,396","₹ 7,581",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,03/09/2020,Economy
+33,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,03/09/2020,Economy
+34,Air India,09 hrs 55 mins ,"₹ 8,424","₹ 7,160","2 stop via Hyderabad,Bengaluru",Mumbai,New Delhi,10:00,19:55,03/09/2020,Economy
+35,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,03/09/2020,Economy
+36,IndiGo,06 hrs 20 mins ,"₹ 9,099","₹ 8,200",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,03/09/2020,Economy
+37,IndiGo,04 hrs 45 mins ,"₹ 9,309","₹ 8,400",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,03/09/2020,Economy
+38,IndiGo,07 hrs 05 mins ,"₹ 9,313","₹ 8,404",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,03/09/2020,Economy
+39,Spicejet,14 hrs 45 mins ,"₹ 9,818","₹ 8,905",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,03/09/2020,Economy
+40,IndiGo,05 hrs 25 mins ,"₹ 10,831","₹ 9,850",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,03/09/2020,Economy
+41,Air India,07 hrs 20 mins ,"₹ 12,511","₹ 11,260",1 stop via Kolkata,Mumbai,New Delhi,06:10,13:30,03/09/2020,Economy
+42,Spicejet,17 hrs 40 mins ,"₹ 13,037","₹ 11,972",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,03/09/2020,Economy
+43,Spicejet,27 hrs 15 mins ,"₹ 13,838","₹ 12,735",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,14:10+1 DAYArrival : New Delhi04 Sep 2020,03/09/2020,Economy
+44,Spicejet,10 hrs 35 mins ,"₹ 14,403","₹ 13,272",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,03/09/2020,Economy
+45,Spicejet,24 hrs 45 mins ,"₹ 14,403","₹ 13,272",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi04 Sep 2020,03/09/2020,Economy
+46,Air India,16 hrs 35 mins ,"₹ 14,611","₹ 13,260",1 stop via Kolkata,Mumbai,New Delhi,06:10,22:45,03/09/2020,Economy
+0,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,08:05,10:15,04/09/2020,Economy
+1,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,04/09/2020,Economy
+2,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,04/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,04/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,04/09/2020,Economy
+5,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,18:45,20:55,04/09/2020,Economy
+6,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,04/09/2020,Economy
+7,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,04/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,04/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,04/09/2020,Economy
+10,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,04/09/2020,Economy
+11,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,04/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,04/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,04/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,04/09/2020,Economy
+15,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Hyderabad,Mumbai,New Delhi,16:10,01:00+1 DAYArrival : New Delhi05 Sep 2020,04/09/2020,Economy
+16,IndiGo,04 hrs 30 mins ,"₹ 6,263","₹ 5,500",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,04/09/2020,Economy
+17,IndiGo,04 hrs 55 mins ,"₹ 6,527","₹ 5,750",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,04/09/2020,Economy
+18,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,04/09/2020,Economy
+19,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,04/09/2020,Economy
+20,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,04/09/2020,Economy
+21,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,04/09/2020,Economy
+22,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,04/09/2020,Economy
+23,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,04/09/2020,Economy
+24,IndiGo,07 hrs 55 mins ,"₹ 6,947","₹ 6,150",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,04/09/2020,Economy
+25,IndiGo,05 hrs 10 mins ,"₹ 6,999","₹ 6,200",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,04/09/2020,Economy
+26,IndiGo,10 hrs 35 mins ,"₹ 6,999","₹ 6,200",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,04/09/2020,Economy
+27,IndiGo,08 hrs 45 mins ,"₹ 7,157","₹ 6,350",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,04/09/2020,Economy
+28,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,04/09/2020,Economy
+29,IndiGo,05 hrs 25 mins ,"₹ 7,839","₹ 7,000",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,04/09/2020,Economy
+30,IndiGo,05 hrs 25 mins ,"₹ 8,207","₹ 7,350",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,04/09/2020,Economy
+31,IndiGo,06 hrs 55 mins ,"₹ 8,396","₹ 7,581",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,04/09/2020,Economy
+32,Spicejet,14 hrs 45 mins ,"₹ 8,400","₹ 7,555",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,04/09/2020,Economy
+33,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,04/09/2020,Economy
+34,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,04/09/2020,Economy
+35,Vistara,05 hrs 50 mins ,"₹ 8,739","₹ 7,540",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,04/09/2020,Economy
+36,Vistara,05 hrs 30 mins ,"₹ 9,571","₹ 8,540",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,04/09/2020,Economy
+37,Vistara,10 hrs 30 mins ,"₹ 9,571","₹ 8,540",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,04/09/2020,Economy
+38,Spicejet,26 hrs 05 mins ,"₹ 12,302","₹ 11,271",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,13:00+1 DAYArrival : New Delhi05 Sep 2020,04/09/2020,Economy
+39,Spicejet,10 hrs 35 mins ,"₹ 13,037","₹ 11,972",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,04/09/2020,Economy
+40,Spicejet,24 hrs 45 mins ,"₹ 13,983","₹ 12,872",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi05 Sep 2020,04/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,05/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,05/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,05/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,11:55,14:05,05/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,05/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,05/09/2020,Economy
+6,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,05/09/2020,Economy
+7,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,18:45,20:55,05/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,05/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,05/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,05/09/2020,Economy
+11,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,05/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,05/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,05/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,05/09/2020,Economy
+15,IndiGo,02 hrs 05 mins ,"₹ 4,213","₹ 3,598",Non stop,Mumbai,New Delhi,09:50,11:55,05/09/2020,Economy
+16,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,05/09/2020,Economy
+17,IndiGo,04 hrs 30 mins ,"₹ 6,263","₹ 5,500",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,05/09/2020,Economy
+18,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,05/09/2020,Economy
+19,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,05/09/2020,Economy
+20,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,05/09/2020,Economy
+21,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,05/09/2020,Economy
+22,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,05/09/2020,Economy
+23,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,05/09/2020,Economy
+24,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,05/09/2020,Economy
+25,IndiGo,06 hrs 20 mins ,"₹ 7,157","₹ 6,350",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,05/09/2020,Economy
+26,IndiGo,05 hrs 10 mins ,"₹ 7,516","₹ 6,693",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,05/09/2020,Economy
+27,IndiGo,10 hrs 35 mins ,"₹ 7,516","₹ 6,693",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,05/09/2020,Economy
+28,Spicejet,14 hrs 45 mins ,"₹ 7,560","₹ 6,755",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,05/09/2020,Economy
+29,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,05/09/2020,Economy
+30,IndiGo,10 hrs 25 mins ,"₹ 7,681","₹ 6,850",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,05/09/2020,Economy
+31,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660","2 stop via Tirupati,Visakhapatnam",Mumbai,New Delhi,09:30,23:00,05/09/2020,Economy
+32,IndiGo,04 hrs 45 mins ,"₹ 7,787","₹ 6,950",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,05/09/2020,Economy
+33,IndiGo,07 hrs 55 mins ,"₹ 7,787","₹ 6,950",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,05/09/2020,Economy
+34,IndiGo,04 hrs 45 mins ,"₹ 7,871","₹ 7,030",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,05/09/2020,Economy
+35,IndiGo,08 hrs 45 mins ,"₹ 7,943","₹ 7,100",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,05/09/2020,Economy
+36,IndiGo,10 hrs 55 mins ,"₹ 7,943","₹ 7,100",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,05/09/2020,Economy
+37,IndiGo,05 hrs 25 mins ,"₹ 8,207","₹ 7,350",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,05/09/2020,Economy
+38,Vistara,11 hrs 15 mins ,"₹ 8,634","₹ 7,440",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,05/09/2020,Economy
+39,IndiGo,07 hrs 05 mins ,"₹ 8,713","₹ 7,832",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,05/09/2020,Economy
+40,Vistara,05 hrs 50 mins ,"₹ 9,264","₹ 8,040",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,05/09/2020,Economy
+41,Vistara,05 hrs 30 mins ,"₹ 9,571","₹ 8,540",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,05/09/2020,Economy
+42,Vistara,10 hrs 30 mins ,"₹ 9,571","₹ 8,540",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,05/09/2020,Economy
+43,Spicejet,27 hrs 15 mins ,"₹ 11,934","₹ 10,921",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,14:10+1 DAYArrival : New Delhi06 Sep 2020,05/09/2020,Economy
+44,Spicejet,10 hrs 35 mins ,"₹ 13,037","₹ 11,972",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,05/09/2020,Economy
+45,Spicejet,24 hrs 45 mins ,"₹ 13,511","₹ 12,422",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi06 Sep 2020,05/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,06/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,06/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,06/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,11:55,14:05,06/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,06/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,06/09/2020,Economy
+6,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,06/09/2020,Economy
+7,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,06/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,06/09/2020,Economy
+9,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,06/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,06/09/2020,Economy
+11,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,06/09/2020,Economy
+12,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,06/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,06/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,06/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,06/09/2020,Economy
+16,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,06/09/2020,Economy
+17,IndiGo,04 hrs 55 mins ,"₹ 5,791","₹ 5,050",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,06/09/2020,Economy
+18,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,06/09/2020,Economy
+19,Go Air,05 hrs 20 mins ,"₹ 6,492","₹ 4,636",1 stop via Lucknow,Mumbai,New Delhi,18:00,23:20,06/09/2020,Economy
+20,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,06/09/2020,Economy
+21,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,06/09/2020,Economy
+22,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,06/09/2020,Economy
+23,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,06/09/2020,Economy
+24,IndiGo,09 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,06/09/2020,Economy
+25,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,06/09/2020,Economy
+26,Air India,08 hrs 25 mins ,"₹ 6,631","₹ 5,660",1 stop via Hyderabad,Mumbai,New Delhi,14:10,22:35,06/09/2020,Economy
+27,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,06/09/2020,Economy
+28,IndiGo,05 hrs 30 mins ,"₹ 6,683","₹ 5,900",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,06/09/2020,Economy
+29,IndiGo,07 hrs 05 mins ,"₹ 6,841","₹ 6,050",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,06/09/2020,Economy
+30,IndiGo,07 hrs 55 mins ,"₹ 6,841","₹ 6,050",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,06/09/2020,Economy
+31,IndiGo,11 hrs 40 mins ,"₹ 6,841","₹ 6,050",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,06/09/2020,Economy
+32,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,06/09/2020,Economy
+33,IndiGo,08 hrs 45 mins ,"₹ 6,893","₹ 6,100",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,06/09/2020,Economy
+34,IndiGo,10 hrs 55 mins ,"₹ 6,893","₹ 6,100",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,06/09/2020,Economy
+35,AirAsia,13 hrs 20 mins ,"₹ 7,287","₹ 6,549",1 stop via Ranchi,Mumbai,New Delhi,08:35,21:55,06/09/2020,Economy
+36,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,06/09/2020,Economy
+37,Spicejet,14 hrs 45 mins ,"₹ 7,822","₹ 7,005",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,06/09/2020,Economy
+38,IndiGo,05 hrs 25 mins ,"₹ 7,839","₹ 7,000",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,06/09/2020,Economy
+39,IndiGo,06 hrs 55 mins ,"₹ 7,896","₹ 7,105",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,06/09/2020,Economy
+40,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,06/09/2020,Economy
+41,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,06/09/2020,Economy
+42,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,06/09/2020,Economy
+43,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,06/09/2020,Economy
+44,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,06/09/2020,Economy
+45,IndiGo,06 hrs 30 mins ,"₹ 10,831","₹ 9,850",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,06/09/2020,Economy
+46,Spicejet,27 hrs 15 mins ,"₹ 11,200","₹ 10,221",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,14:10+1 DAYArrival : New Delhi07 Sep 2020,06/09/2020,Economy
+47,Spicejet,24 hrs 45 mins ,"₹ 11,673","₹ 10,672",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi07 Sep 2020,06/09/2020,Economy
+48,Spicejet,10 hrs 35 mins ,"₹ 12,093","₹ 11,072",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,06/09/2020,Economy
+49,Spicejet,17 hrs 40 mins ,"₹ 12,093","₹ 11,072",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,06/09/2020,Economy
+50,Air India,16 hrs 35 mins ,"₹ 14,716","₹ 13,360",1 stop via Kolkata,Mumbai,New Delhi,06:10,22:45,06/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,07/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,07/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,07/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,07/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,07/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,07/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,07/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,07/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,07/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,07/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,07/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,07/09/2020,Economy
+12,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,07/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,07/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,07/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,07/09/2020,Economy
+16,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:50,07/09/2020,Economy
+17,IndiGo,04 hrs 55 mins ,"₹ 5,633","₹ 4,900",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,07/09/2020,Economy
+18,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,07/09/2020,Economy
+19,Air India,05 hrs 40 mins ,"₹ 6,106","₹ 5,160",1 stop via Ahmedabad,Mumbai,New Delhi,06:00,11:40,07/09/2020,Economy
+20,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,07/09/2020,Economy
+21,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,07/09/2020,Economy
+22,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,07/09/2020,Economy
+23,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,07/09/2020,Economy
+24,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,07/09/2020,Economy
+25,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,07/09/2020,Economy
+26,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,07/09/2020,Economy
+27,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,07/09/2020,Economy
+28,IndiGo,09 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,07/09/2020,Economy
+29,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,07/09/2020,Economy
+30,IndiGo,10 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,07/09/2020,Economy
+31,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,07/09/2020,Economy
+32,IndiGo,05 hrs 30 mins ,"₹ 6,789","₹ 6,000",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,07/09/2020,Economy
+33,IndiGo,07 hrs 05 mins ,"₹ 6,947","₹ 6,150",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,07/09/2020,Economy
+34,IndiGo,11 hrs 40 mins ,"₹ 6,947","₹ 6,150",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,07/09/2020,Economy
+35,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,07/09/2020,Economy
+36,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,07/09/2020,Economy
+37,Spicejet,14 hrs 45 mins ,"₹ 8,084","₹ 7,255",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,07/09/2020,Economy
+38,IndiGo,05 hrs 25 mins ,"₹ 8,207","₹ 7,350",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,07/09/2020,Economy
+39,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,07/09/2020,Economy
+40,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,07/09/2020,Economy
+41,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,07/09/2020,Economy
+42,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,07/09/2020,Economy
+43,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,07/09/2020,Economy
+44,Spicejet,24 hrs 45 mins ,"₹ 10,517","₹ 9,572",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi08 Sep 2020,07/09/2020,Economy
+45,Spicejet,26 hrs 05 mins ,"₹ 10,570","₹ 9,621",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,13:00+1 DAYArrival : New Delhi08 Sep 2020,07/09/2020,Economy
+46,Spicejet,10 hrs 35 mins ,"₹ 10,885","₹ 9,922",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,07/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,08/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,08/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,08/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,08/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,08/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,08/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,08/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,08/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,08/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,08/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,08/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,118","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,08/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,118","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,08/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,118","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,08/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,118","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,08/09/2020,Economy
+15,AirAsia,07 hrs 35 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,13:35,08/09/2020,Economy
+16,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+17,Spicejet,10 hrs 45 mins ,"₹ 5,984","₹ 5,255",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+18,Spicejet,18 hrs 15 mins ,"₹ 5,984","₹ 5,255",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+19,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,08/09/2020,Economy
+20,IndiGo,04 hrs 45 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,08/09/2020,Economy
+21,IndiGo,07 hrs 55 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,08/09/2020,Economy
+22,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,08/09/2020,Economy
+23,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,08/09/2020,Economy
+24,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,08/09/2020,Economy
+25,IndiGo,06 hrs 20 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,08/09/2020,Economy
+26,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,08/09/2020,Economy
+27,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,08/09/2020,Economy
+28,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,08/09/2020,Economy
+29,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,08/09/2020,Economy
+30,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,08/09/2020,Economy
+31,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,08/09/2020,Economy
+32,IndiGo,10 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,08/09/2020,Economy
+33,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,08/09/2020,Economy
+34,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,08/09/2020,Economy
+35,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,08/09/2020,Economy
+36,IndiGo,06 hrs 30 mins ,"₹ 6,893","₹ 6,100",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,08/09/2020,Economy
+37,IndiGo,04 hrs 45 mins ,"₹ 6,921","₹ 5,900",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,08/09/2020,Economy
+38,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,08/09/2020,Economy
+39,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,08/09/2020,Economy
+40,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660","2 stop via Tirupati,Visakhapatnam",Mumbai,New Delhi,09:30,23:00,08/09/2020,Economy
+41,Spicejet,07 hrs 20 mins ,"₹ 8,079","₹ 7,250",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,08/09/2020,Economy
+42,Spicejet,20 hrs 10 mins ,"₹ 8,079","₹ 7,250",1 stop via Bengaluru,Mumbai,New Delhi,16:20,12:30+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+43,Spicejet,14 hrs 45 mins ,"₹ 8,242","₹ 7,405",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,08/09/2020,Economy
+44,Vistara,05 hrs 35 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:35,08/09/2020,Economy
+45,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,08/09/2020,Economy
+46,IndiGo,07 hrs 05 mins ,"₹ 8,713","₹ 7,832",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,08/09/2020,Economy
+47,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,08/09/2020,Economy
+48,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,08/09/2020,Economy
+49,Spicejet,24 hrs 45 mins ,"₹ 9,783","₹ 8,872",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+50,Spicejet,17 hrs 40 mins ,"₹ 9,835","₹ 8,922",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,08/09/2020,Economy
+51,Spicejet,24 hrs ,"₹ 10,254","₹ 9,321",1 stop via Gorakhpur,Mumbai,New Delhi,13:00,13:00+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+52,Spicejet,26 hrs 05 mins ,"₹ 10,254","₹ 9,321",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,13:00+1 DAYArrival : New Delhi09 Sep 2020,08/09/2020,Economy
+53,Vistara,12 hrs 15 mins ,"₹ 10,306","₹ 9,240",1 stop via Kolkata,Mumbai,New Delhi,07:30,19:45,08/09/2020,Economy
+54,Spicejet,10 hrs 35 mins ,"₹ 10,517","₹ 9,572",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,08/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,09/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,09/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,09/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,09/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,09/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,09/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,09/09/2020,Economy
+7,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,09/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,09/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,09/09/2020,Economy
+10,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,09/09/2020,Economy
+11,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,09/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,09/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,09/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,09/09/2020,Economy
+15,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:50,09/09/2020,Economy
+16,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Hyderabad,Mumbai,New Delhi,16:10,01:00+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+17,IndiGo,04 hrs 55 mins ,"₹ 5,529","₹ 4,800",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,09/09/2020,Economy
+18,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,09/09/2020,Economy
+19,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+20,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,09/09/2020,Economy
+21,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+22,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+23,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+24,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,09/09/2020,Economy
+25,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,09/09/2020,Economy
+26,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,09/09/2020,Economy
+27,IndiGo,04 hrs 45 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,09/09/2020,Economy
+28,IndiGo,07 hrs 55 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,09/09/2020,Economy
+29,Go Air,05 hrs 20 mins ,"₹ 6,492","₹ 4,636",1 stop via Lucknow,Mumbai,New Delhi,18:00,23:20,09/09/2020,Economy
+30,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,09/09/2020,Economy
+31,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,09/09/2020,Economy
+32,IndiGo,05 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,09/09/2020,Economy
+33,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,09/09/2020,Economy
+34,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,09/09/2020,Economy
+35,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,09/09/2020,Economy
+36,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,09/09/2020,Economy
+37,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,09/09/2020,Economy
+38,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,09/09/2020,Economy
+39,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,09/09/2020,Economy
+40,IndiGo,09 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,09/09/2020,Economy
+41,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,09/09/2020,Economy
+42,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,09/09/2020,Economy
+43,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,09/09/2020,Economy
+44,Air India,08 hrs 25 mins ,"₹ 6,631","₹ 5,660",1 stop via Hyderabad,Mumbai,New Delhi,14:10,22:35,09/09/2020,Economy
+45,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,09/09/2020,Economy
+46,IndiGo,05 hrs 25 mins ,"₹ 6,789","₹ 6,000",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,09/09/2020,Economy
+47,Vistara,09 hrs 25 mins ,"₹ 7,156","₹ 6,240",1 stop via Varanasi,Mumbai,New Delhi,07:30,16:55,09/09/2020,Economy
+48,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,09/09/2020,Economy
+49,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,09/09/2020,Economy
+50,Air India,11 hrs ,"₹ 7,681","₹ 6,660","2 stop via Bhubaneswar,Surat",Mumbai,New Delhi,12:00,23:00,09/09/2020,Economy
+51,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Visakhapatnam,Mumbai,New Delhi,09:30,23:00,09/09/2020,Economy
+52,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,09/09/2020,Economy
+53,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,09/09/2020,Economy
+54,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,09/09/2020,Economy
+55,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,09/09/2020,Economy
+56,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,09/09/2020,Economy
+57,Spicejet,10 hrs 35 mins ,"₹ 9,153","₹ 8,272",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,09/09/2020,Economy
+58,Spicejet,24 hrs 45 mins ,"₹ 9,153","₹ 8,272",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+59,Spicejet,26 hrs 05 mins ,"₹ 10,570","₹ 9,621",1 stop via Gorakhpur,Mumbai,New Delhi,10:55,13:00+1 DAYArrival : New Delhi10 Sep 2020,09/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,10/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,10/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,10/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,10/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,10/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,10/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,10/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,10/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,10/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,10/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,10/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,10/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,10/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,10/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,10/09/2020,Economy
+15,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,10/09/2020,Economy
+16,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Hyderabad,Mumbai,New Delhi,16:10,01:00+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+17,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,10/09/2020,Economy
+18,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,10/09/2020,Economy
+19,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+20,Spicejet,09 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,14:25,10/09/2020,Economy
+21,Spicejet,10 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,23:40,10/09/2020,Economy
+22,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+23,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+24,Spicejet,13 hrs 55 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,19:00,10/09/2020,Economy
+25,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+26,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,10/09/2020,Economy
+27,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,10/09/2020,Economy
+28,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+29,Spicejet,16 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,15:15+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+30,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+31,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+32,Spicejet,19 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,13:50+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+33,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+34,Spicejet,21 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,15:15+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+35,Spicejet,24 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,13:50+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+36,Spicejet,20 hrs 15 mins ,"₹ 5,979","₹ 5,250",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+37,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,10/09/2020,Economy
+38,IndiGo,06 hrs 05 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,11:25,17:30,10/09/2020,Economy
+39,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,10/09/2020,Economy
+40,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,10/09/2020,Economy
+41,IndiGo,04 hrs 45 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,10/09/2020,Economy
+42,IndiGo,07 hrs 55 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,10/09/2020,Economy
+43,IndiGo,04 hrs 45 mins ,"₹ 6,159","₹ 5,400",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,10/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,10/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,10/09/2020,Economy
+46,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,10/09/2020,Economy
+47,IndiGo,06 hrs 20 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,10/09/2020,Economy
+48,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,10/09/2020,Economy
+49,IndiGo,06 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,15:45,22:35,10/09/2020,Economy
+50,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,10/09/2020,Economy
+51,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,10/09/2020,Economy
+52,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,10/09/2020,Economy
+53,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,10/09/2020,Economy
+54,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,10/09/2020,Economy
+55,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,10/09/2020,Economy
+56,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,10/09/2020,Economy
+57,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,10/09/2020,Economy
+58,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,10/09/2020,Economy
+59,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,10/09/2020,Economy
+60,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,10/09/2020,Economy
+61,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,10/09/2020,Economy
+62,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660","2 stop via Tirupati,Visakhapatnam",Mumbai,New Delhi,09:30,23:00,10/09/2020,Economy
+63,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,10/09/2020,Economy
+64,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,10/09/2020,Economy
+65,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,10/09/2020,Economy
+66,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,10/09/2020,Economy
+67,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,10/09/2020,Economy
+68,Spicejet,10 hrs 35 mins ,"₹ 8,891","₹ 8,022",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,10/09/2020,Economy
+69,Spicejet,24 hrs 45 mins ,"₹ 8,891","₹ 8,022",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi11 Sep 2020,10/09/2020,Economy
+70,Spicejet,17 hrs 40 mins ,"₹ 9,257","₹ 8,372",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,10/09/2020,Economy
+71,Vistara,12 hrs 15 mins ,"₹ 9,571","₹ 8,540",1 stop via Kolkata,Mumbai,New Delhi,07:30,19:45,10/09/2020,Economy
+72,Air India,07 hrs 20 mins ,"₹ 9,991","₹ 8,860",1 stop via Kolkata,Mumbai,New Delhi,06:10,13:30,10/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,11/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,11/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,11/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,11/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,11/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,11/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,11/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,11/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,11/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,11/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,11/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,11/09/2020,Economy
+12,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,11/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,11/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,11/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,11/09/2020,Economy
+16,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,11/09/2020,Economy
+17,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Hyderabad,Mumbai,New Delhi,16:10,01:00+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+18,IndiGo,04 hrs 55 mins ,"₹ 5,529","₹ 4,800",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,11/09/2020,Economy
+19,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,11/09/2020,Economy
+20,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,11/09/2020,Economy
+21,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+22,Spicejet,09 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,14:25,11/09/2020,Economy
+23,Spicejet,10 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,23:40,11/09/2020,Economy
+24,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+25,Spicejet,13 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,18:20,11/09/2020,Economy
+26,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+27,Spicejet,13 hrs 55 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,19:00,11/09/2020,Economy
+28,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+29,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,11/09/2020,Economy
+30,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,11/09/2020,Economy
+31,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+32,Spicejet,16 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,15:15+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+33,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+34,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+35,Spicejet,19 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,13:50+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+36,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+37,Spicejet,21 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,15:15+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+38,Spicejet,24 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,13:50+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+39,Spicejet,20 hrs 15 mins ,"₹ 5,979","₹ 5,250",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi12 Sep 2020,11/09/2020,Economy
+40,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,11/09/2020,Economy
+41,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,11/09/2020,Economy
+42,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,11/09/2020,Economy
+43,Air India,05 hrs 40 mins ,"₹ 6,106","₹ 5,160",1 stop via Ahmedabad,Mumbai,New Delhi,06:00,11:40,11/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,11/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,11/09/2020,Economy
+46,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,11/09/2020,Economy
+47,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,11/09/2020,Economy
+48,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,11/09/2020,Economy
+49,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,11/09/2020,Economy
+50,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,11/09/2020,Economy
+51,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,11/09/2020,Economy
+52,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,11/09/2020,Economy
+53,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,16:20,11/09/2020,Economy
+54,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,11/09/2020,Economy
+55,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,11/09/2020,Economy
+56,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,11/09/2020,Economy
+57,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,11/09/2020,Economy
+58,IndiGo,05 hrs 30 mins ,"₹ 6,683","₹ 5,900",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,11/09/2020,Economy
+59,IndiGo,09 hrs 10 mins ,"₹ 6,683","₹ 5,900",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,11/09/2020,Economy
+60,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,11/09/2020,Economy
+61,Vistara,09 hrs 25 mins ,"₹ 7,156","₹ 6,240",1 stop via Varanasi,Mumbai,New Delhi,07:30,16:55,11/09/2020,Economy
+62,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,11/09/2020,Economy
+63,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,11/09/2020,Economy
+64,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,11/09/2020,Economy
+65,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,11/09/2020,Economy
+66,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,11/09/2020,Economy
+67,Spicejet,10 hrs 35 mins ,"₹ 8,627","₹ 7,772",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,11/09/2020,Economy
+68,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,11/09/2020,Economy
+69,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,11/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,12/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,12/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,12/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,11:55,14:05,12/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,12/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,12/09/2020,Economy
+6,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,12/09/2020,Economy
+7,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,12/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,12/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,12/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,12/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,12/09/2020,Economy
+12,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,12/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,12/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,12/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,12/09/2020,Economy
+16,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,12/09/2020,Economy
+17,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,12/09/2020,Economy
+18,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,12/09/2020,Economy
+19,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+20,Spicejet,09 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,14:25,12/09/2020,Economy
+21,Spicejet,10 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,23:40,12/09/2020,Economy
+22,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+23,Spicejet,13 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,18:20,12/09/2020,Economy
+24,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+25,Spicejet,13 hrs 55 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,19:00,12/09/2020,Economy
+26,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+27,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,12/09/2020,Economy
+28,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,12/09/2020,Economy
+29,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+30,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+31,Spicejet,19 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,13:50+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+32,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+33,Spicejet,24 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,13:50+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+34,Spicejet,24 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Dehradun,Mumbai,New Delhi,10:15,11:05+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+35,Spicejet,20 hrs 15 mins ,"₹ 5,979","₹ 5,250",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+36,Spicejet,24 hrs 45 mins ,"₹ 5,979","₹ 5,250",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi13 Sep 2020,12/09/2020,Economy
+37,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,12/09/2020,Economy
+38,IndiGo,06 hrs 05 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,11:25,17:30,12/09/2020,Economy
+39,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,12/09/2020,Economy
+40,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,12/09/2020,Economy
+41,IndiGo,04 hrs 45 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,12/09/2020,Economy
+42,IndiGo,07 hrs 55 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,12/09/2020,Economy
+43,IndiGo,04 hrs 45 mins ,"₹ 6,159","₹ 5,400",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,12/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,12/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,12/09/2020,Economy
+46,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,12/09/2020,Economy
+47,IndiGo,06 hrs 20 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,12/09/2020,Economy
+48,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,12/09/2020,Economy
+49,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,12/09/2020,Economy
+50,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,12/09/2020,Economy
+51,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,12/09/2020,Economy
+52,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,12/09/2020,Economy
+53,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,12/09/2020,Economy
+54,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,12/09/2020,Economy
+55,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,12/09/2020,Economy
+56,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,12/09/2020,Economy
+57,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,12/09/2020,Economy
+58,IndiGo,05 hrs 25 mins ,"₹ 6,893","₹ 6,100",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,12/09/2020,Economy
+59,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,12/09/2020,Economy
+60,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Visakhapatnam,Mumbai,New Delhi,09:30,23:00,12/09/2020,Economy
+61,Spicejet,10 hrs 35 mins ,"₹ 8,417","₹ 7,572",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,12/09/2020,Economy
+62,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,12/09/2020,Economy
+63,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,12/09/2020,Economy
+64,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,12/09/2020,Economy
+65,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,12/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,13/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,13/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,13/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,11:55,14:05,13/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,13/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,13/09/2020,Economy
+6,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,13/09/2020,Economy
+7,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,13/09/2020,Economy
+8,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,13/09/2020,Economy
+9,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,13/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,13/09/2020,Economy
+11,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,13/09/2020,Economy
+12,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,13/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,13/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,13/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,13/09/2020,Economy
+16,AirAsia,08 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:20,13/09/2020,Economy
+17,AirAsia,13 hrs 20 mins ,"₹ 5,313","₹ 4,669",1 stop via Ranchi,Mumbai,New Delhi,08:35,21:55,13/09/2020,Economy
+18,IndiGo,04 hrs 55 mins ,"₹ 5,529","₹ 4,800",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,13/09/2020,Economy
+19,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,13/09/2020,Economy
+20,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,13/09/2020,Economy
+21,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+22,Spicejet,10 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,23:40,13/09/2020,Economy
+23,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+24,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+25,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+26,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Kolkata,Mumbai,New Delhi,19:45,10:05+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+27,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,13/09/2020,Economy
+28,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,13/09/2020,Economy
+29,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+30,Spicejet,16 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,15:15+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+31,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+32,Spicejet,17 hrs 40 mins ,"₹ 5,665","₹ 4,950",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,13/09/2020,Economy
+33,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+34,Spicejet,19 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,13:50+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+35,Spicejet,20 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+36,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+37,Spicejet,21 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,15:15+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+38,Spicejet,24 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,13:50+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+39,Spicejet,24 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Dehradun,Mumbai,New Delhi,10:15,11:05+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+40,Spicejet,24 hrs 45 mins ,"₹ 5,979","₹ 5,250",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi14 Sep 2020,13/09/2020,Economy
+41,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,13/09/2020,Economy
+42,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,13/09/2020,Economy
+43,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,13/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,13/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,13/09/2020,Economy
+46,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,13/09/2020,Economy
+47,IndiGo,05 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,13/09/2020,Economy
+48,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,13/09/2020,Economy
+49,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,13/09/2020,Economy
+50,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,13/09/2020,Economy
+51,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,13/09/2020,Economy
+52,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,13/09/2020,Economy
+53,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,13/09/2020,Economy
+54,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,16:20,13/09/2020,Economy
+55,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,13/09/2020,Economy
+56,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,13/09/2020,Economy
+57,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,13/09/2020,Economy
+58,Air India,08 hrs 25 mins ,"₹ 6,631","₹ 5,660",1 stop via Hyderabad,Mumbai,New Delhi,14:10,22:35,13/09/2020,Economy
+59,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,13/09/2020,Economy
+60,IndiGo,09 hrs 10 mins ,"₹ 6,683","₹ 5,900",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,13/09/2020,Economy
+61,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,13/09/2020,Economy
+62,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,13/09/2020,Economy
+63,Spicejet,10 hrs 35 mins ,"₹ 8,417","₹ 7,572",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,13/09/2020,Economy
+64,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,13/09/2020,Economy
+65,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,13/09/2020,Economy
+66,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,13/09/2020,Economy
+67,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,13/09/2020,Economy
+68,Air India,07 hrs 20 mins ,"₹ 8,731","₹ 7,660",1 stop via Kolkata,Mumbai,New Delhi,06:10,13:30,13/09/2020,Economy
+69,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,13/09/2020,Economy
+70,Air India,16 hrs 35 mins ,"₹ 8,731","₹ 7,660",1 stop via Kolkata,Mumbai,New Delhi,06:10,22:45,13/09/2020,Economy
+71,Vistara,12 hrs 15 mins ,"₹ 9,571","₹ 8,540",1 stop via Kolkata,Mumbai,New Delhi,07:30,19:45,13/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,14/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,14/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,14/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,14/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,14/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,14/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,14/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,14/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,14/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,14/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,14/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,14/09/2020,Economy
+12,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,14/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,14/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,14/09/2020,Economy
+15,AirAsia,08 hrs 50 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,14:50,14/09/2020,Economy
+16,IndiGo,04 hrs 55 mins ,"₹ 5,529","₹ 4,800",1 stop via Udaipur,Mumbai,New Delhi,15:35,20:30,14/09/2020,Economy
+17,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,14/09/2020,Economy
+18,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,14/09/2020,Economy
+19,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+20,Spicejet,09 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,14:25,14/09/2020,Economy
+21,Spicejet,10 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,23:40,14/09/2020,Economy
+22,Spicejet,10 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,14/09/2020,Economy
+23,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+24,Spicejet,13 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,18:20,14/09/2020,Economy
+25,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+26,Spicejet,13 hrs 55 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,19:00,14/09/2020,Economy
+27,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+28,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,14/09/2020,Economy
+29,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,14/09/2020,Economy
+30,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+31,Spicejet,16 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,15:15+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+32,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+33,Spicejet,17 hrs 40 mins ,"₹ 5,665","₹ 4,950",1 stop via Kolkata,Mumbai,New Delhi,05:50,23:30,14/09/2020,Economy
+34,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+35,Spicejet,19 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,13:50+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+36,Spicejet,20 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+37,Spicejet,21 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,13:50+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+38,Spicejet,21 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,15:15+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+39,Spicejet,24 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,13:15,13:50+1 DAYArrival : New Delhi15 Sep 2020,14/09/2020,Economy
+40,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,14/09/2020,Economy
+41,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,14/09/2020,Economy
+42,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,14/09/2020,Economy
+43,Air India,05 hrs 40 mins ,"₹ 6,106","₹ 5,160",1 stop via Ahmedabad,Mumbai,New Delhi,06:00,11:40,14/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,14/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,14/09/2020,Economy
+46,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,14/09/2020,Economy
+47,IndiGo,05 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,11:45,14/09/2020,Economy
+48,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,14/09/2020,Economy
+49,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,14/09/2020,Economy
+50,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,14/09/2020,Economy
+51,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,14/09/2020,Economy
+52,IndiGo,08 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,21:40,14/09/2020,Economy
+53,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,14/09/2020,Economy
+54,IndiGo,09 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,06:15,15:25,14/09/2020,Economy
+55,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,16:20,14/09/2020,Economy
+56,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,14/09/2020,Economy
+57,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,14/09/2020,Economy
+58,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,14/09/2020,Economy
+59,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,14/09/2020,Economy
+60,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,14/09/2020,Economy
+61,Air India,09 hrs 30 mins ,"₹ 7,681","₹ 6,660",1 stop via Bhubaneswar,Mumbai,New Delhi,12:00,21:30,14/09/2020,Economy
+62,Air India,11 hrs ,"₹ 7,681","₹ 6,660","2 stop via Bhubaneswar,Surat",Mumbai,New Delhi,12:00,23:00,14/09/2020,Economy
+63,Vistara,05 hrs 50 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:50,14/09/2020,Economy
+64,Air India,09 hrs 25 mins ,"₹ 8,424","₹ 7,160",1 stop via Bengaluru,Mumbai,New Delhi,10:30,19:55,14/09/2020,Economy
+65,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,14/09/2020,Economy
+66,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,14/09/2020,Economy
+67,Air India,07 hrs 20 mins ,"₹ 8,731","₹ 7,660",1 stop via Kolkata,Mumbai,New Delhi,06:10,13:30,14/09/2020,Economy
+68,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,14/09/2020,Economy
+69,Air India,16 hrs 35 mins ,"₹ 8,731","₹ 7,660",1 stop via Kolkata,Mumbai,New Delhi,06:10,22:45,14/09/2020,Economy
+0,Go Air,02 hrs 05 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,06:00,08:05,15/09/2020,Economy
+1,Go Air,02 hrs 10 mins ,"₹ 4,005","₹ 2,619",Non stop,Mumbai,New Delhi,21:30,23:40,15/09/2020,Economy
+2,Vistara,02 hrs ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,10:15,12:15,15/09/2020,Economy
+3,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,13:30,15:40,15/09/2020,Economy
+4,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,15:00,17:10,15/09/2020,Economy
+5,Vistara,02 hrs 10 mins ,"₹ 4,006","₹ 3,370",Non stop,Mumbai,New Delhi,17:00,19:10,15/09/2020,Economy
+6,Spicejet,02 hrs 10 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,19:30,21:40,15/09/2020,Economy
+7,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,07:00,09:15,15/09/2020,Economy
+8,Spicejet,02 hrs 15 mins ,"₹ 4,006","₹ 3,371",Non stop,Mumbai,New Delhi,07:20,09:35,15/09/2020,Economy
+9,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,10:00,12:15,15/09/2020,Economy
+10,Air India,02 hrs 15 mins ,"₹ 4,006","₹ 3,330",Non stop,Mumbai,New Delhi,21:00,23:15,15/09/2020,Economy
+11,IndiGo,02 hrs 05 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,09:50,11:55,15/09/2020,Economy
+12,IndiGo,02 hrs 10 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,11:35,13:45,15/09/2020,Economy
+13,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,08:00,10:15,15/09/2020,Economy
+14,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,15:50,18:05,15/09/2020,Economy
+15,IndiGo,02 hrs 15 mins ,"₹ 4,007","₹ 3,400",Non stop,Mumbai,New Delhi,18:35,20:50,15/09/2020,Economy
+16,AirAsia,07 hrs 35 mins ,"₹ 5,313","₹ 4,669",1 stop via Bengaluru,Mumbai,New Delhi,06:00,13:35,15/09/2020,Economy
+17,Spicejet,05 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,23:40,15/09/2020,Economy
+18,Spicejet,07 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,23:40,15/09/2020,Economy
+19,Spicejet,09 hrs ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,07:45+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+20,Spicejet,09 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,14:25,15/09/2020,Economy
+21,Spicejet,10 hrs 35 mins ,"₹ 5,665","₹ 4,950",1 stop via Patna,Mumbai,New Delhi,09:55,20:30,15/09/2020,Economy
+22,Spicejet,10 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,07:45+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+23,Spicejet,13 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,19:00,08:45+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+24,Spicejet,13 hrs 55 mins ,"₹ 5,665","₹ 4,950",1 stop via Srinagar,Mumbai,New Delhi,05:05,19:00,15/09/2020,Economy
+25,Spicejet,14 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,07:45+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+26,Spicejet,14 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Varanasi,Mumbai,New Delhi,06:40,21:25,15/09/2020,Economy
+27,Spicejet,15 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,08:25,23:40,15/09/2020,Economy
+28,Spicejet,15 hrs 20 mins ,"₹ 5,665","₹ 4,950",1 stop via Chennai,Mumbai,New Delhi,18:35,09:55+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+29,Spicejet,16 hrs 30 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,22:45,15:15+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+30,Spicejet,17 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Hyderabad,Mumbai,New Delhi,15:30,08:45+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+31,Spicejet,18 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,21:00,15:15+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+32,Spicejet,18 hrs 25 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,18:05,12:30+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+33,Spicejet,20 hrs 10 mins ,"₹ 5,665","₹ 4,950",1 stop via Bengaluru,Mumbai,New Delhi,16:20,12:30+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+34,Spicejet,20 hrs 15 mins ,"₹ 5,665","₹ 4,950",1 stop via Jabalpur,Mumbai,New Delhi,13:55,10:10+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+35,Spicejet,21 hrs 50 mins ,"₹ 5,665","₹ 4,950",1 stop via Ahmedabad,Mumbai,New Delhi,17:25,15:15+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+36,Spicejet,24 hrs 45 mins ,"₹ 5,665","₹ 4,950",1 stop via Patna,Mumbai,New Delhi,09:55,10:40+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
+37,IndiGo,04 hrs 30 mins ,"₹ 6,053","₹ 5,300",1 stop via Ahmedabad,Mumbai,New Delhi,15:45,20:15,15/09/2020,Economy
+38,IndiGo,06 hrs 05 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,11:25,17:30,15/09/2020,Economy
+39,IndiGo,08 hrs 45 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,15:20,15/09/2020,Economy
+40,IndiGo,10 hrs 55 mins ,"₹ 6,053","₹ 5,300",1 stop via Indore,Mumbai,New Delhi,06:35,17:30,15/09/2020,Economy
+41,IndiGo,04 hrs 45 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,14:50,15/09/2020,Economy
+42,IndiGo,07 hrs 55 mins ,"₹ 6,107","₹ 5,350",1 stop via Dehradun,Mumbai,New Delhi,10:05,18:00,15/09/2020,Economy
+43,IndiGo,04 hrs 45 mins ,"₹ 6,159","₹ 5,400",1 stop via Chandigarh,Mumbai,New Delhi,08:55,13:40,15/09/2020,Economy
+44,IndiGo,05 hrs 10 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,22:35,15/09/2020,Economy
+45,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Raipur,Mumbai,New Delhi,06:00,11:25,15/09/2020,Economy
+46,IndiGo,05 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,12:35,18:00,15/09/2020,Economy
+47,IndiGo,05 hrs 45 mins ,"₹ 6,579","₹ 5,800",1 stop via Lucknow,Mumbai,New Delhi,14:00,19:45,15/09/2020,Economy
+48,IndiGo,06 hrs 20 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,12:55,19:15,15/09/2020,Economy
+49,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Varanasi,Mumbai,New Delhi,06:15,12:45,15/09/2020,Economy
+50,IndiGo,06 hrs 30 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,17:25,23:55,15/09/2020,Economy
+51,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,16:15,15/09/2020,Economy
+52,IndiGo,07 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Amritsar,Mumbai,New Delhi,16:10,23:15,15/09/2020,Economy
+53,IndiGo,07 hrs 55 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,17:45,15/09/2020,Economy
+54,IndiGo,08 hrs 50 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,20:50,15/09/2020,Economy
+55,IndiGo,10 hrs 25 mins ,"₹ 6,579","₹ 5,800",1 stop via Nagpur,Mumbai,New Delhi,09:50,20:15,15/09/2020,Economy
+56,IndiGo,10 hrs 35 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,12:00,22:35,15/09/2020,Economy
+57,IndiGo,11 hrs 40 mins ,"₹ 6,579","₹ 5,800",1 stop via Hyderabad,Mumbai,New Delhi,09:10,20:50,15/09/2020,Economy
+58,IndiGo,12 hrs 05 mins ,"₹ 6,579","₹ 5,800",1 stop via Goa,Mumbai,New Delhi,05:55,18:00,15/09/2020,Economy
+59,Vistara,10 hrs 25 mins ,"₹ 6,631","₹ 5,740",1 stop via Hyderabad,Mumbai,New Delhi,09:20,19:45,15/09/2020,Economy
+60,Vistara,09 hrs 25 mins ,"₹ 7,156","₹ 6,240",1 stop via Varanasi,Mumbai,New Delhi,07:30,16:55,15/09/2020,Economy
+61,IndiGo,06 hrs 55 mins ,"₹ 7,543","₹ 6,768",1 stop via Allahabad,Mumbai,New Delhi,12:45,19:40,15/09/2020,Economy
+62,Vistara,04 hrs 35 mins ,"₹ 7,681","₹ 6,740",1 stop via Goa,Mumbai,New Delhi,12:30,17:05,15/09/2020,Economy
+63,Air India,13 hrs 30 mins ,"₹ 7,681","₹ 6,660","2 stop via Tirupati,Visakhapatnam",Mumbai,New Delhi,09:30,23:00,15/09/2020,Economy
+64,Vistara,05 hrs 35 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,14:35,15/09/2020,Economy
+65,Vistara,11 hrs 15 mins ,"₹ 8,424","₹ 7,240",1 stop via Bengaluru,Mumbai,New Delhi,09:00,20:15,15/09/2020,Economy
+66,Vistara,05 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,15:15,15/09/2020,Economy
+67,Vistara,10 hrs 30 mins ,"₹ 8,731","₹ 7,740",1 stop via Chennai,Mumbai,New Delhi,09:45,20:15,15/09/2020,Economy
+68,Spicejet,24 hrs ,"₹ 9,100","₹ 8,221",1 stop via Gorakhpur,Mumbai,New Delhi,13:00,13:00+1 DAYArrival : New Delhi16 Sep 2020,15/09/2020,Economy
